@@ -113,7 +113,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 <b>👥 ɢʀᴏᴜᴘs:</b> <code>{}</code>
 <b>📉 ᴏᴄᴄᴜᴘɪᴇᴅ:</b> <code>{}</code>
 
-<b><a href=https://t.me/Developerr_Bots>~ Maintained by @Developerr_Bots</a></b>"""
+<b><a href=https://t.me/Moviesbank_Corporation>~ Maintained by @Moviesbank_Corporation</a></b>"""
 
     ADMIN_STATUS_TXT = """<b>⍟────[ ʙᴏᴛ sᴛᴀᴛᴜ𝗌 ]────⍟</b>
 
@@ -135,7 +135,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
 <b>🆓 ғʀᴇᴇ:</b> <code>{}</code>
 
-<b>⍟────[ @Devloperr_Bots ]─────⍟</b>"""
+<b>⍟────[ @@Moviesbank_Corporation ]─────⍟</b>"""
 
     LOG_TEXT_G = """<b>#NewGroup
     
